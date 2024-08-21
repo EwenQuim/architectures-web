@@ -3,3 +3,12 @@ default:
 
 run-0:
 	cd 0-static && npx serve
+
+run-1:
+	cd 1-ssr && npm start
+
+run-2:
+	cd 2-ssg && npm start
+
+run-3:
+	cd 3-universal && npm start
