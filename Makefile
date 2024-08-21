@@ -8,7 +8,7 @@ run-1:
 	cd 1-ssr && npm start
 
 run-2:
-	cd 2-ssg && npm start
+	cd 2-csr && npm start
 
 run-3:
 	cd 3-universal && npm start
