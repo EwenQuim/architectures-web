@@ -5,10 +5,10 @@ run-0:
 	cd 0-static && npx serve
 
 run-1:
-	cd 1-ssr && npm start
+	cd 1-ssr && make
 
 run-2:
-	cd 2-csr && npm start
+	cd 2-csr && make
 
 run-3:
-	cd 3-universal && npm start
+	cd 3-universal && make
