@@ -23,7 +23,7 @@ Elle se basera sur une API REST qui permettra de gérer les recettes. Vous devre
 - Se déconnecter de son compte utilisateur
 - Ajouter une recette à ses favoris
 - Supprimer une recette de ses favoris
-- PAGE `/favorites` Voir la liste de ses recettes favorites
+- PAGE `/fav` Voir la liste de ses recettes favorites
 
 ### Contraintes
 
@@ -64,7 +64,7 @@ Toute initiative est la bienvenue, tant que les fonctionnalités demandées sont
 | zeta      |               |               |                |                   |
 | eta       |               |               |                |                   |
 | theta     |               |               |                |                   |
-| iota      |               |               |                |                   |
+| iota      | Alexandre Correia    | Gustave Legrand    | https://github.com/AlexandreCGithub/archiweb-TD |                 |
 | kappa     |               |               |                |                   |
 | lambda    |               |               |                |                   |
 | mu        |               |               |                |                   |
