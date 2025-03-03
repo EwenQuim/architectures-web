@@ -54,29 +54,29 @@ Toute initiative est la bienvenue, tant que les fonctionnalités demandées sont
 
 ### Groupes
 
-| Team Name | Team Member 1   | Team Member 2 | Git Repository | Docker Image Link |
-| --------- | --------------- | ------------- | -------------- | ----------------- |
-| alpha     |                 |               |                |                   |
-| beta      |                 |               |                |                   |
-| gamma     |                 |               |                |                   |
-| delta     |                 |               |                |                   |
-| epsilon   |                 |               |                |                   |
-| zeta      |                 |               |                |                   |
-| eta       |                 |               |                |                   |
-| theta     |                 |               |                |                   |
-| iota      |                 |               |                |                   |
-| kappa     |                 |               |                |                   |
-| lambda    |                 |               |                |                   |
-| mu        | Clara Bou Hanna |               |                |                   |
-| nu        |                 |               |                |                   |
-| xi        |                 |               |                |                   |
-| omicron   |                 |               |                |                   |
-| pi        |                 |               |                |                   |
-| rho       |                 |               |                |                   |
-| sigma     |                 |               |                |                   |
-| tau       |                 |               |                |                   |
-| upsilon   |                 |               |                |                   |
-| phi       |                 |               |                |                   |
-| chi       |                 |               |                |                   |
-| psi       |                 |               |                |                   |
-| omega     |                 |               |                |                   |
+| Team Name | Team Member 1 | Team Member 2 | Git Repository | Docker Image Link |
+| --------- | ------------- | ------------- | -------------- | ----------------- |
+| alpha     |               |               |                |                   |
+| beta      |               |               |                |                   |
+| gamma     |               |               |                |                   |
+| delta     |               |               |                |                   |
+| epsilon   |               |               |                |                   |
+| zeta      |               |               |                |                   |
+| eta       |               |               |                |                   |
+| theta     |               |               |                |                   |
+| iota      |               |               |                |                   |
+| kappa     |               |               |                |                   |
+| lambda    |               |               |                |                   |
+| mu        |Clara Bou Hanna               |               |                |                   |
+| nu        |               |               |                |                   |
+| xi        |               |               |                |                   |
+| omicron   |               |               |                |                   |
+| pi        |               |               |                |                   |
+| rho       |               |               |                |                   |
+| sigma     |               |               |                |                   |
+| tau       |               |               |                |                   |
+| upsilon   |               |               |                |                   |
+| phi       |               |               |                |                   |
+| chi       |               |               |                |                   |
+| psi       |               |               |                |                   |
+| omega     |               |               |                |                   |
