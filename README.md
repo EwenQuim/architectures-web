@@ -57,7 +57,7 @@ Toute initiative est la bienvenue, tant que les fonctionnalités demandées sont
 | Team Name | Team Member 1 | Team Member 2 | Git Repository | Docker Image Link |
 | --------- | ------------- | ------------- | -------------- | ----------------- |
 | alpha     | Arthur Baudin | Clara Guillet |  https://github.com/dd-absol/archiweb-project |[lien docker hub](https://hub.docker.com/r/ddabsol/gourmet-astro)|
-| beta      |               |               |                |                   |
+| beta      | Damien Ouzillou | Théo Garampon | https://github.com/DamsOuz/architectures-web |                   |
 | gamma     |Antoine Cheneau|               |         https://github.com/chenow/gourmitton         |    [chenow/gourmitton](https://hub.docker.com/r/chenow/gourmitton)               |
 | delta     |               |               |                |                   |
 | epsilon   |  Liwei SUN    | Dac-An VO     | https://github.com/Dac-An-hub/cass-app               |                   |
